@@ -1,5 +1,7 @@
 <p align="center">
-  🌐 [Versión en español](README.md)
+  <a href="https://github.com/sariasca/sariasca/blob/main/README.md">
+    🌐 [Versión en español](README.md)
+  </a>
 </p>
 <h1 align="center">Hi, I'm Santiago 👋</h1>
 
