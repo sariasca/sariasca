@@ -35,7 +35,7 @@
 
 ### 🚧 Personal Roadmap
 
-- Deepen **Full Stack development** with emphasis on **Java (Spring Boot)** and **PHP (Laravel)**.  
+- Deepen **Full Stack development** using **Java (Spring Boot)**, **PHP (Laravel)**, and **JavaScript** (Node.js and modern frameworks).  
 - Improve **Python** skills for scripting, automation, and backend.  
 - Incorporate best practices of **secure development** applying cybersecurity knowledge.  
 - Participate in collaborative projects and contribute to **open source**.  
