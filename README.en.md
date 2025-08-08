@@ -17,7 +17,7 @@
 - 🌱 Currently focused on **web and mobile application development**.  
 - 🔐 Knowledge in **cybersecurity**, applying it to development to improve the security of my projects.  
 - 🎨 Creative interests: **Art, drawing, and design**.  
-- 🎸 Electric and acoustic bass; curiosity for experimental and post-punk music.
+- 🎸 Electric and acoustic bass; curiosity for experimental music.
 
 ---
 
