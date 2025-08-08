@@ -17,8 +17,8 @@
 - 💻 Experiencia previa en **Desarollo**, **Soporte técnico** y **Mantenimiento**.  
 - 🌱 Enfocado actualmente en **Desarrollo de aplicaciones web y móviles**.  
 - 🔐 Conocimientos en **ciberseguridad** que aplico al desarrollo para mejorar la seguridad de mis proyectos.  
-- 🎨 Intereses creativos: **Arte, dibujo y diseño** (aprendiz de tatuador).  
-- 🎸 Bajo eléctrico y acústico; curiosidad por la música experimental y post-punk.
+- 🎨 Intereses creativos: **Arte, dibujo y diseño**.  
+- 🎸 Bajo eléctrico y acústico; curiosidad por la música experimental.
 
 ---
 
