@@ -51,7 +51,7 @@
   </a>
 </p>
 
-**Correo:** santiagoarias@gmail.com
+**Correo:** santiagoariastrbj@gmail.com
 
 ---
 
